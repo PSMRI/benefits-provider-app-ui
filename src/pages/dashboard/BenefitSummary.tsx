@@ -26,7 +26,7 @@ const BenefitSummary = () => {
           </TT2>
 
           <PrimaryButton alignSelf="center" w="500px">
-            View Details
+            {t("DASHBOARD_VIEW_DETAILS")}
           </PrimaryButton>
         </VStack>
       </VStack>
